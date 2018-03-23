@@ -47,12 +47,21 @@ public class LineNumberer2 {
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {
+		// Uncomment each block of code for Checkpoints 1 and 2
+		
+		// Checkpoint 1
+		/*
 		File file = new File("..\\project7\\src\\lab7\\Deck.java");
 		numberLines(file);
-
-		// File file1 = new File("story.txt");
-		// countWords(file1);
-
+		
+		File file1 = new File("story.txt");
+		countWords(file1);
+		*/
+		
+		
+		// Checkpoint 2
+		// For this checkpoint type the string of text you would like to check against in the console
+		/*
 		ArrayList<String> words = new ArrayList<String>();
 		Scanner in = new Scanner(System.in);
 		String[] temp = in.nextLine().split(" ");
@@ -60,5 +69,6 @@ public class LineNumberer2 {
 			words.add(word);
 
 		removeDuplicates(words);
+		*/
 	}
 }
