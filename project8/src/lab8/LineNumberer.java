@@ -5,6 +5,9 @@ public class LineNumberer
 {
   public static void main(String[] args)
   {
+    /**
+        THIS HAS NOT BEEN EDITED IN ANY WAY. SEE LineNumberer2.java FOR MODIFIED CODE FOR CHECKPOINT 1.
+    */
     Scanner scanner = new Scanner(System.in);
     int lineCount = 1;
 
