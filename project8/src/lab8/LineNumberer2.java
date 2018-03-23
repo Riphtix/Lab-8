@@ -51,7 +51,7 @@ public class LineNumberer2 {
 		
 		// Checkpoint 1
 		/*
-		File file = new File("..\\project7\\src\\lab7\\Deck.java");
+		File file = new File("..\\project8\\src\\deck\\Deck.java");
 		numberLines(file);
 		
 		File file1 = new File("story.txt");
